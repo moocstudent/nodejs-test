@@ -1,0 +1,1 @@
+document.write("hello webpack2 from b.js");
