@@ -5,7 +5,7 @@ var connection;
 //准备函数 openConnection,其中填写数据库地址,账号密码,名称
 function openConnection(){
 	connection = mysql.createConnection({
-		host : "60.205.224.226",
+		host : "61.215.224.226",
 		user : "root",
 		password : "thedatatheft",
 		database : "nodejs"
