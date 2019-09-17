@@ -7,7 +7,7 @@ function openConnection(){
 	connection = mysql.createConnection({
 		host : "60.205.224.226",
 		user : "root",
-		password : "zhangqi1112sql",
+		password : "thedatatheft",
 		database : "nodejs"
 	});
 	//数据库连接
